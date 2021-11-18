@@ -1,0 +1,3 @@
+SimpleRead:
+	-Get a proper (not too slow)  tangent function working to get finer temperature readings
+
